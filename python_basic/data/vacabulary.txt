@@ -1,0 +1,3 @@
+dog: 개
+fire: 불
+deep: 깊은
